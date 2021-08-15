@@ -1,0 +1,12 @@
+# IDE specific directories
+bin/
+obj/
+.vs/
+
+# IDE specific files
+*.sln
+
+# User specific files
+*.user
+
+
